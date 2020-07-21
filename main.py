@@ -1,7 +1,8 @@
 def main(msg):
-//another comment
-// adding the second  comment
- //changing in the test for learning purposes
+//no longer need comments
     print(msg)
+    
+def secondary():
+    print("new function")
 
 main("hello ,world")
